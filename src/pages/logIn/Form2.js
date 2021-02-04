@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import FormLogin from "./FormLogin";
 import FormSuccess2 from "./FormSuccess2";
 import "./Form2.css";
+import { Link } from "react-router-dom";
 
 const Form2 = () => {
   const [isSubmitted, setIsSubmitted] = useState(false);
@@ -13,9 +14,9 @@ const Form2 = () => {
   return (
     <>
       <div className="form-container2">
-        <a className="close-btn" href="/">
+        <Link className="close-btn" to="/react-project-v1">
           ×
-        </a>
+        </Link>
         <div className="form-content-left">
           <img
             className="form-img2"
