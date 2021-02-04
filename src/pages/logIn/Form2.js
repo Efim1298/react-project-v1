@@ -14,7 +14,7 @@ const Form2 = () => {
   return (
     <>
       <div className="form-container2">
-        <Link className="close-btn" to="/react-project-v1">
+        <Link to="/react-project-v1" className="close-btn">
           ×
         </Link>
         <div className="form-content-left">
