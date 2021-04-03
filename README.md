@@ -16,8 +16,8 @@ Parts:
 - Creating rest of Pages;
 - Adding Scroll to Top Effect;
 - Creating pages signUp and logIn.
-
-
+>
+>
 ### React Form Validation Using Custom Hooks 
 
 Parts:
