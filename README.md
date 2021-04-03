@@ -1,6 +1,6 @@
 # Short description
 
-###React Website Using Styled Components
+### React Website Using Styled Components
 
 Parts:
 
@@ -18,7 +18,7 @@ Parts:
 - Creating pages signUp and logIn.
 
 
-###React Form Validation Using Custom Hooks 
+### React Form Validation Using Custom Hooks 
 
 Parts:
 
