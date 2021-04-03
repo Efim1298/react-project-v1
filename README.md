@@ -1,6 +1,6 @@
 # Short description
 
-React Website Using Styled Components
+###React Website Using Styled Components
 
 Parts:
 
@@ -17,12 +17,8 @@ Parts:
 - Adding Scroll to Top Effect;
 - Creating pages signUp and logIn.
 
-  
-  
-  
-  
 
-React Form Validation Using Custom Hooks 
+###React Form Validation Using Custom Hooks 
 
 Parts:
 
